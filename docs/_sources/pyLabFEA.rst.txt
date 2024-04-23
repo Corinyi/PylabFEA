@@ -1,0 +1,42 @@
+Modules
+=======
+
+Module Basic
+------------
+.. automodule:: pylabfea.basic
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module Model
+------------
+
+.. automodule:: pylabfea.model
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module Material
+---------------
+
+.. automodule:: pylabfea.material
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   
+Module Training
+---------------
+
+.. automodule:: pylabfea.training
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Module Data
+-----------
+
+.. automodule:: pylabfea.data
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   

@@ -1,0 +1,12 @@
+name: pylabfea
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - matplotlib
+  - scipy
+  - scikit-learn
+  - pytest
+  - jupyter
+
